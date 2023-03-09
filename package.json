@@ -1,0 +1,31 @@
+{
+  "name": "todo-solidjs",
+  "version": "1.0.0",
+  "description": "Solid.js experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3bdesign/todo-solidjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w3bdesign/todo-solidjs/issues"
+  },
+  "homepage": "https://github.com/w3bdesign/todo-solidjs#readme",
+  "devDependencies": {
+    "vite": "^4.1.4",
+    "vite-plugin-solid": "^2.6.1"
+  },
+  "dependencies": {
+    "babel-preset-solid": "^1.6.12",
+    "solid-js": "^1.6.12"
+  }
+}
